@@ -2,6 +2,7 @@ library(tidyverse)
 library(survminer)
 library(survival)
 library(GSVA)
+library(patchwork)
 
 ## the df generated from the Elastic-net prioritisation will be used here
 
