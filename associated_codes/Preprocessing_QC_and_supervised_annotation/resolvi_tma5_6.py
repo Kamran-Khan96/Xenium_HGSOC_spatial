@@ -23,12 +23,12 @@ scvi.external.RESOLVI.setup_anndata(
     batch_key="tma"
 )
 
-# 5. Train model
+# Train model
 supervised_resolvi = scvi.external.RESOLVI(adata, semisupervised=True)
 supervised_resolvi.train(max_epochs=200,
 			 early_stopping=True)
 
-# 6. Predictions + latent space
+# Predictions + latent space
 adata.obsm["resolvi_celltypes"] = supervised_resolvi.predict(
     adata, num_samples=3, soft=True
 )
