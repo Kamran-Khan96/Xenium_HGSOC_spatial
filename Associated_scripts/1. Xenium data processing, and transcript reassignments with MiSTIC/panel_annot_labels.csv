@@ -1,0 +1,412 @@
+gene,Adjusted_group,fine_label_AF
+PLIN1,Adipocytes,Adipocytes
+PPARG,Adipocytes,Adipocytes
+ADIPOQ,Adipocytes,Adipocytes
+IGHG4,B_plasma cells,B_Plasma cells IGHG+
+IGHG2,B_plasma cells,B_Plasma cells IGHG+
+CD38,B_plasma cells,-
+CD79A,B_plasma cells,-
+MZB1,B_plasma cells,-
+IGHM,B_plasma cells,B_Plasma cells IGHM+
+IGHA1,B_plasma cells,B_Plasma cells IGHA+
+JCHAIN,B_plasma cells,-
+XBP1,B_plasma cells,-
+CD207,Dendritic cells,Dendritic cells
+LAMP3,Dendritic cells,Dendritic cells
+CCL22,Dendritic cells,Dendritic cells
+LGALS2,Dendritic cells,Dendritic cells
+SEMA3G,Endothelial,Endothelial (arterial)
+TCF15,Endothelial,Endothelial (capillary)
+PROX1,Endothelial,Endothelial (lymphatic)
+APBA2,Endothelial,Endothelial (lymphatic)
+RELN,Endothelial,Endothelial (lymphatic)
+SELP,Endothelial,Endothelial (venous)
+PLVAP,Endothelial,Endothelial (venous)
+FLT1,Endothelial,-
+CLDN5,Endothelial,-
+SOX17,Endothelial,Endothelial (arterial)
+MECOM,Endothelial,-
+TGFBR3,Endothelial,-
+LDLR,Endothelial,-
+PECAM1,Endothelial,-
+CSF1,Endothelial,-
+IL6ST,Endothelial,-
+RORA,Endothelial,-
+TIE1,Endothelial,-
+TAP1,Endothelial,-
+GPIHBP1,Endothelial,Endothelial (capillary)
+VWF,Endothelial,-
+ENG,Endothelial,-
+FGF10,Fibroblast,-
+TFAP2B,Fibroblast,-
+LAMC3,Fibroblast,-
+PTCH1,Fibroblast,-
+EGR2,Fibroblast,-
+GPC3,Fibroblast,-
+DLK1,Fibroblast,-
+OGN,Fibroblast,-
+AXL,Fibroblast,-
+TMEM45A,Fibroblast,-
+GPNMB,Fibroblast,-
+IGF1,Fibroblast,-
+SNAI2,Fibroblast,-
+NCAM1,Fibroblast,-
+GDF15,Fibroblast,-
+PLAT,Fibroblast,-
+CCL2,Fibroblast,-
+MYC,Fibroblast,-
+EGR1,Fibroblast,Fibroblast - EGR1+
+EGR3,Fibroblast,-
+LTA,Fibroblast,-
+PLTP,Fibroblast,-
+CD99,Fibroblast,-
+TIMP2,Fibroblast,-
+IL6,Fibroblast,Fibroblast - inflammatory
+PDGFC,Fibroblast,-
+POSTN,Fibroblast,Fibroblast - matrix
+COL5A1,Fibroblast,Fibroblast - matrix
+COL11A1,Fibroblast,Fibroblast - matrix
+INHBA,Fibroblast,-
+THBS2,Fibroblast,-
+VCAN,Fibroblast,-
+FAP,Fibroblast,-
+ADAM12,Fibroblast,-
+COL5A2,Fibroblast,-
+FBN1,Fibroblast,-
+CXCL12,Fibroblast,-
+FBLN1,Fibroblast,-
+IGFBP4,Fibroblast,-
+CXCL14,Fibroblast,Fibroblast - iCAF
+THY1,Fibroblast,Fibroblast - THY1+
+MMP2,Fibroblast,-
+SERPINF1,Fibroblast,-
+SDC1,Fibroblast,-
+SERPINE1,Fibroblast,Fibroblast - SERPINE1+
+TNC,Fibroblast,-
+COMP,Fibroblast,Fibroblast - matrix
+NT5E,Fibroblast,-
+NID2,Fibroblast,-
+PDPN,Fibroblast,Fibroblast - matrix
+OAS2,Fibroblast,-
+APOD,Fibroblast,Fibroblast - iCAF
+FGFR1,Fibroblast,-
+ITGB5,Fibroblast,-
+ITGA1,Fibroblast,Fibroblast - THY1+
+CD70,Fibroblast,-
+TNFRSF19,Fibroblast,-
+BGN,Fibroblast,-
+CD44,Fibroblast,-
+COL6A1,Fibroblast,-
+COL6A2,Fibroblast,-
+THBS1,Fibroblast,-
+IGFBP5,Fibroblast,Fibroblast - IGFBP5+
+COL14A1,Fibroblast,-
+MMP1,Fibroblast,-
+TNFRSF11B,Fibroblast,-
+HAS2,Fibroblast,-
+RASGRP4,Mast cells,Mast cells
+MRGPRX2,Mast cells,Mast cells
+CPA3,Mast cells,Mast cells
+KIT,Mast cells,Mast cells
+HP,Mesothelial cells,Mesothelial cells
+UPK3B,Mesothelial cells,Mesothelial cells
+COL4A5,Mesothelial cells,Mesothelial cells
+GRN,Monocyte_Macrophages,-
+IL18,Monocyte_Macrophages,-
+SIRPA,Monocyte_Macrophages,-
+FCGBP,Monocyte_Macrophages,Monocyte_Macrophages FCGBP+
+ADORA3,Monocyte_Macrophages,-
+ADAMDEC1,Monocyte_Macrophages,-
+CSF1R,Monocyte_Macrophages,-
+SERPINA1,Monocyte_Macrophages,Monocyte_Macrophages SERPINA1+
+CCL20,Monocyte_Macrophages,-
+CCL18,Monocyte_Macrophages,-
+CXCL2,Monocyte_Macrophages,-
+CXCL8,Monocyte_Macrophages,Monocyte_Macrophages CXCL8+
+ANPEP,Monocyte_Macrophages,-
+CD163,Monocyte_Macrophages,Monocyte_Macrophages CD163+
+IL1R2,Monocyte_Macrophages,-
+MRC1,Monocyte_Macrophages,-
+CD36,Monocyte_Macrophages,-
+ADM,Monocyte_Macrophages,Monocyte_Macrophages ADM+
+ITGB2,Monocyte_Macrophages,-
+CXCL3,Monocyte_Macrophages,-
+MARCO,Monocyte_Macrophages,Monocyte_Macrophages MARCO+
+IL1B,Monocyte_Macrophages,-
+TNFRSF1B,Monocyte_Macrophages,-
+TNF,Monocyte_Macrophages,-
+HAVCR2,Monocyte_Macrophages,-
+CCL3,Monocyte_Macrophages,-
+CD4,Monocyte_Macrophages,-
+CD86,Monocyte_Macrophages,-
+IL10RA,Monocyte_Macrophages,-
+CAMP,Monocyte_Macrophages,-
+LGALS9,Monocyte_Macrophages,-
+CXCL9,Monocyte_Macrophages,Monocyte_Macrophages CXCL9+
+CD68,Monocyte_Macrophages,-
+RGS2,Monocyte_Macrophages,Monocyte_Macrophages RGS2+
+CLEC5A,Monocyte_Macrophages,-
+OLR1,Monocyte_Macrophages,-
+IL1RN,Monocyte_Macrophages,-
+MMP19,Monocyte_Macrophages,Monocyte_Macrophages MMP19+
+MMP9,Monocyte_Macrophages,Monocyte_Macrophages MMP9+
+CHI3L1,Monocyte_Macrophages,-
+CCR2,Monocyte_Macrophages,Monocytes
+GLUL,Monocyte_Macrophages,Monocyte_Macrophages GLUL+
+TAGLN,Myofibroblasts,Myofibroblasts
+PDGFRB,Myofibroblasts,Myofibroblasts
+PTN,Myofibroblasts,Myofibroblasts
+NOTCH3,Myofibroblasts,Myofibroblasts
+TIMP3,Myofibroblasts,Myofibroblasts
+ACTA2,Myofibroblasts,Myofibroblasts
+ATF3,Myofibroblasts,Myofibroblasts
+MFGE8,Myofibroblasts,Myofibroblasts
+TPPP3,Myofibroblasts,Myofibroblasts
+MPO,Neutrophils,Neutrophils
+CEACAM8,Neutrophils,Neutrophils
+XCL1,NK cells,NK cells
+GNLY,NK cells,NK cells
+KLRF1,NK cells,NK cells
+KLRB1,NK cells,NK cells
+KLRC1,NK cells,NK cells
+KLRD1,NK cells,NK cells
+TRDC,NK cells,NK cells
+FGFBP2,NK cells,NK cells
+SELL,pDC,pDC
+TCF4,pDC,pDC
+LILRA4,pDC,pDC
+CLEC4C,pDC,pDC
+RGS5,Pericyte,Pericyte
+MKI67,Proliferating,Proliferating
+PCNA,Proliferating,Proliferating
+TOP2A,Proliferating,Proliferating
+MPZ,Schwann cells,Schwann cells
+KLRG1,T cells,T cell effector
+CD101,T cells,T cell exhausted
+TOX,T cells,T cell exhausted
+SLAMF6,T cells,T cell PEX
+TCF7,T cells,T cell PEX
+RUNX3,T cells,T cell TRM
+ZNF683,T cells,T cell TRM
+ITGAE,T cells,-
+GZMH,T cells,-
+CTSW,T cells,-
+CXCL13,T cells,T cells CXCL13+
+ICOS,T cells,-
+TRGC2,T cells,-
+GZMK,T cells,-
+CST7,T cells,-
+CD3D,T cells,-
+CD8A,T cells,-
+GZMB,T cells,-
+PTPRC,T cells,-
+IL32,T cells,T cells IL32+
+ADGRE5,T cells,-
+CXCR3,T cells,-
+IL2RG,T cells,-
+CD40LG,T cells,-
+IFNG,T cells,-
+LAG3,T cells,-
+PDCD1,T cells,-
+NKG7,T cells,-
+TIGIT,T cells,-
+CXCR6,T cells,-
+CD28,T cells,-
+IL2RB,T cells,-
+CD52,T cells,-
+ITGAL,T cells,-
+CCL5,T cells,T cells CCL5+
+LTB,T cells,-
+CXCR4,T cells,T cells CXCR4+
+CD3E,T cells,-
+CD2,T cells,-
+TBX21,T cells,T cells CD4+ T helper (TH1)
+GATA3,T cells,T cells CD4+ T helper (TH2)
+GZMA,T cells,T cells cytotoxic
+PRF1,T cells,T cells cytotoxic
+IL7R,T cells,T cells Naive
+CCR7,T cells,T cells Naive
+IL2RA,T cells,T cells Treg
+CTLA4,T cells,T cells Treg
+FOXP3,T cells,T cells Treg
+STAT1,Tumour,Tumour
+ATM,Tumour,Tumour
+AREG,Tumour,Tumour
+OAS3,Tumour,Tumour
+RBPJ,Tumour,Tumour
+NOTCH1,Tumour,Tumour
+CSK,Tumour,Tumour
+CALM3,Tumour,Tumour
+ADA,Tumour,Tumour
+ICAM3,Tumour,Tumour
+ICAM2,Tumour,Tumour
+LAMP2,Tumour,Tumour
+PSPN,Tumour,Tumour
+SSC5D,Tumour,Tumour
+BRCA1,Tumour,Tumour
+EPCAM,Tumour,Tumour
+GSN,Tumour,Tumour
+CD24,Tumour,Tumour
+KRT17,Tumour,Tumour
+HMGB2,Tumour,Tumour
+HSPA1B,Tumour,Tumour
+CXCL17,Tumour,Tumour
+GAS6,Tumour,Tumour
+ITGB8,Tumour,Tumour
+WNT7A,Tumour,Tumour
+CD59,Tumour,Tumour
+CD9,Tumour,Tumour
+CLCF1,Tumour,Tumour
+FGFR2,Tumour,Tumour
+IL11RA,Tumour,Tumour
+TNFRSF10B,Tumour,Tumour
+TNFRSF12A,Tumour,Tumour
+WNT7B,Tumour,Tumour
+EPHA4,Tumour,Tumour
+EPOR,Tumour,Tumour
+IFNAR1,Tumour,Tumour
+IGF1R,Tumour,Tumour
+IL17RE,Tumour,Tumour
+ITGA3,Tumour,Tumour
+ITGB6,Tumour,Tumour
+RNF43,Tumour,Tumour
+RSPO1,Tumour,Tumour
+TNFRSF10A,Tumour,Tumour
+TNFRSF21,Tumour,Tumour
+SLPI,Tumour,Tumour
+PIGR,Tumour,Tumour
+GMPR,Tumour,Tumour
+PI3,Tumour,Tumour
+ITPKC,Tumour,Tumour
+SNRPD1,Tumour,Tumour
+SOGA1,Tumour,Tumour
+CTXN2,Tumour,Tumour
+RCN2,Tumour,Tumour
+FBXO4,Tumour,Tumour
+PYGB,Tumour,Tumour
+BLOC1S1,Tumour,Tumour
+PDP1,Tumour,Tumour
+PSMA2,Tumour,Tumour
+NDUFC2,Tumour,Tumour
+ARHGEF38,Tumour,Tumour
+LINC01556,Tumour,Tumour
+HMGB3,Tumour,Tumour
+DNAJC9-AS1,Tumour,Tumour
+CCDC160,Tumour,Tumour
+MGAM,Tumour,Tumour
+COA4,Tumour,Tumour
+TRMT112,Tumour,Tumour
+PFDN6,Tumour,Tumour
+SERPINI2,Tumour,Tumour
+RGMB-AS1,Tumour,Tumour
+CTPS2,Tumour,Tumour
+GPR27,Tumour,Tumour
+MAVS,Tumour,Tumour
+STAU2,Tumour,Tumour
+FAM166B,Tumour,Tumour
+NARS2,Tumour,Tumour
+OAZ3,Tumour,Tumour
+NOL7,Tumour,Tumour
+FAM120B,Tumour,Tumour
+RIPK4,Tumour,Tumour
+TFB1M,Tumour,Tumour
+TFF3,Tumour,Tumour
+CD47,Tumour,Tumour
+TP53,Tumour,Tumour
+FOLR1,Tumour,Tumour
+TERT,Tumour,Tumour
+ERBB2,Tumour,Tumour
+TACSTD2,Tumour,Tumour
+CDCP1,Tumour,Tumour
+MUC16,Tumour,Tumour
+SLC34A2,Tumour,Tumour
+LGR6,Tumour,Tumour
+IL20RA,Tumour,Tumour
+PMS2,Tumour,Tumour
+MSH6,Tumour,Tumour
+MLH1,Tumour,Tumour
+MSH2,Tumour,Tumour
+CDH3,Tumour,Tumour
+PAEP,Tumour,Tumour
+CXCL10,Tumour,Tumour
+MMP7,Tumour,Tumour
+ADIRF,Tumour,Tumour
+KRT19,Tumour,Tumour
+TNFSF10,Tumour,Tumour
+LCN2,Tumour,Tumour
+CLU,Tumour,Tumour
+IER3,Tumour,Tumour
+S100A9,Tumour,Tumour
+CXCL1,Tumour,Tumour
+S100P,Tumour,Tumour
+FGFR3,Tumour,Tumour
+INHBB,Tumour,Tumour
+MUC4,Tumour,Tumour
+S100A8,Tumour,Tumour
+TSPAN1,Tumour,Tumour
+CCND1,Tumour,Tumour
+FXYD3,Tumour,Tumour
+IL6R,Tumour,Tumour
+KRT7,Tumour,Tumour
+OAS1,Tumour,Tumour
+PROM1,Tumour,Tumour
+CDH1,Tumour,Tumour
+DNALI1,Tumour,Tumour
+VTCN1,Tumour,Tumour
+FGF9,Tumour,Tumour
+CD55,Tumour,Tumour
+CP,Tumour,Tumour
+EFNB2,Tumour,Tumour
+LTF,Tumour,Tumour
+AGR2,Tumour,Tumour
+CEACAM6,Tumour,Tumour
+COL9A2,Tumour,Tumour
+FZD5,Tumour,Tumour
+LPAR3,Tumour,Tumour
+ERBB3,Tumour,Tumour
+CXCL5,Tumour,Tumour
+ERBB4,Tumour,Tumour
+BMP7,Tumour,Tumour
+EGFR,Tumour,Tumour
+FGF18,Tumour,Tumour
+KHDRBS3,Tumour,Tumour
+ALCAM,Tumour,Tumour
+NPR1,Tumour,Tumour
+F2RL1,Tumour,Tumour
+CEACAM1,Tumour,Tumour
+L1CAM,Tumour,Tumour
+LAMC2,Tumour,Tumour
+NECTIN3,Tumour,Tumour
+TGFA,Tumour,Tumour
+CFTR,Tumour,Tumour
+LGR5,Tumour,Tumour
+NRCAM,Tumour,Tumour
+ADM2,Tumour,Tumour
+DNAJB11,Tumour,Tumour
+EPPK1,Tumour,Tumour
+SLC45A4,Tumour,Tumour
+ADGRB1,Tumour,Tumour
+ADGRL1,Tumour,Tumour
+ATAD2,Tumour,Tumour
+COL22A1,Tumour,Tumour
+FAM83H,Tumour,Tumour
+FZD6,Tumour,Tumour
+IL1RAP,Tumour,Tumour
+IQANK1,Tumour,Tumour
+LIPH,Tumour,Tumour
+MROH6,Tumour,Tumour
+MTSS1,Tumour,Tumour
+NLGN1,Tumour,Tumour
+SLA,Tumour,Tumour
+SLURP1,Tumour,Tumour
+TG,Tumour,Tumour
+TIGD5,Tumour,Tumour
+TRIB1,Tumour,Tumour
+ZFAT,Tumour,Tumour
+PVT1,Tumour,Tumour
+PARP1,Tumour,Tumour
+IL1RL1,Tumour,Tumour
+LIF,Tumour,Tumour
+BCAM,Tumour,Tumour
+ADGRG1,Tumour,Tumour
+SDC4,Tumour,Tumour
