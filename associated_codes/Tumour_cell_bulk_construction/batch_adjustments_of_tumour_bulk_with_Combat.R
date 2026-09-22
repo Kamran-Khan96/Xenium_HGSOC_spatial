@@ -2,7 +2,7 @@ library(tidyverse)
 library(tidybulk)
 library(sva)
 
-patient_list <- read_csv("D:/Kamran/UWA_post_doc/HGSOC_project/TMA5_04_03_26/identify_tumour_clusters/tma5_6_mean_bulk_adj_metadata.csv") %>%
+patient_list <- read_csv("tma5_6_metadata.csv") %>%
   pull(sample) %>% unique()
 
 log <- read_csv("tma5_tumour_decoupler_coarse_mean_bulk.csv") %>%
