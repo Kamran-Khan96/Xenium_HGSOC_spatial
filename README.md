@@ -74,6 +74,6 @@ Evaluates joint associations between survival-associated tumour-intrinsic gene s
 
 ## Citation
 
-If you use these scripts or adapt the workflows for your research, please cite the accompanying publication:
+If you use these scripts or adapt the workflows for your research, please cite the accompanying preprint:
 
-[biorxiv]
+Khan K, Lin W, Denisenko E, Hou R, Bilic S, Yu Y, Huang Y, Liu P, Cohen PA, Forrest ARR. **Spatial transcriptomics reveals tumour cell-intrinsic and microenvironmental features associated with survival in high-grade serous ovarian carcinoma.** *bioRxiv*. 2026. doi: [10.64898/2026.10.02.755833](https://doi.org/10.64898/2026.10.02.755833).
